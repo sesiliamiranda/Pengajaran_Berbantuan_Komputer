@@ -1,7 +1,13 @@
-# <p style="text-align: center;"> REVIEW APLIKASI DESMOS </p>
+``` 
+Nama        : Sesilia Miranda
+NIM         : 2110131220010
+Mata Kuliah : Pengajaran Berbantuan Komputer
+```
+***
+# <p style="text-align: center;"> REVIEW APLIKASI DESMOS SEBAGAI TOOLS </p>
 
 ## Pengertian Aplikasi
-<div style="text-align: justify;"><p><b>Desmos</b> adalah aplikasi berbasis web yang menyediakan alat interaktif untuk menggambar grafik fungsi matematika, menyelesaikan persamaan, dan menganalisis data. Aplikasi ini dirancang untuk membantu pengguna memahami konsep-konsep matematika melalui visualisasi grafis yang intuitif dan dinamis.</p>
+<div style="text-align: justify;"><p><b>Desmos</b> adalah aplikasi berbasis web yang menyediakan <b>alat</b> interaktif untuk menggambar grafik fungsi matematika, menyelesaikan persamaan, dan menganalisis data. Aplikasi ini dirancang untuk membantu pengguna memahami konsep-konsep matematika melalui visualisasi grafis yang intuitif dan dinamis.</p>
 
 ## Pengembang Aplikasi 
 <div style="text-align: justify;"><p>Desmos dikembangkan oleh Desmos, Inc., sebuah perusahaan teknologi pendidikan yang didirikan pada tahun 2011 oleh Eli Luberoff. Perusahaan ini fokus pada pengembangan alat-alat matematika interaktif untuk meningkatkan pembelajaran dan pengajaran matematika di berbagai tingkat pendidikan.
