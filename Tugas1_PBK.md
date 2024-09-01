@@ -1,6 +1,3 @@
-*** 
-<br>
-
 # <p style="text-align: center;"> REVIEW APLIKASI DESMOS </p>
 
 ## Pengertian Aplikasi
@@ -22,7 +19,7 @@ Tujuan utama Desmos adalah untuk memfasilitasi pemahaman konsep-konsep matematik
 ## Tampilan Aplikasi
 Dibawah ini merupakan tampilan awal ketika kita membuka Desmos;
 
-![halaman awal](images/1.png)
+![halaman awal](Images/1.png)
 <b>Keterangan :</b>
 1. Area utama di sebelah kanan layar adalah ruang grafik kosong yang siap untuk digunakan. Di sinilah pengguna dapat melihat visualisasi dari fungsi atau persamaan yang dimasukkan.
 2. Toolbar kecil yang berisi ikon-ikon untuk mengubah pengaturan tampilan grafik, seperti memperbesar atau memperkecil tampilan, mengatur grid, dan mengatur skala sumbu. 
@@ -32,7 +29,7 @@ Dibawah ini merupakan tampilan awal ketika kita membuka Desmos;
 
 Dibawah ini merupakan tampilan kekita kita mengetikan sebuah persamaan dan aplikasi Desmos langsung membrikan tampilan grafik dari persamaan yang telak kita ketikan.</div>
 
-![halaman awal](images/gambar2.png)
+![halaman awal](Images/gambar2.png)
 
 ## Akses Apllikasi
 Untuk akses aplikasi lebih lanjut, [klik di sini](https://www.desmos.com/calculator/ycfghxltn1?lang=id "Kunjungi Aplikasi").
